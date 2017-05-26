@@ -16,6 +16,5 @@ class JitterBug {
  y += random(-speed, speed);
  }
  void display() {
- ellipse(x, y, diameter, diameter);
- }
+ ellipse(x, y, diameter, diameter); }
 }
